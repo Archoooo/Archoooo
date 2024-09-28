@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Archoooo&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archoooo&layout=compact&langs_count=10&theme=vue" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Archoooo&theme=vue&hide_border=true" />
+</div>
